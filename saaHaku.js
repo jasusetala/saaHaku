@@ -1,3 +1,4 @@
+/* Jasu Setälä, 2016, https://github.com/jasusetala/saaHaku */
 function saaHaku() {
     var source = document.saahaku.source.value;
     var location = document.saahaku.location.value;
@@ -7,4 +8,3 @@ function saaHaku() {
         window.open("http://www.foreca.fi/Finland/" + location, "_blank");
     }
 }
-// Jasu Setälä, 2016

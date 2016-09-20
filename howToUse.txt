@@ -1,0 +1,9 @@
+HTML:
+<form class="saahaku" name="saahaku">
+    <select name="source">
+        <option value="ilmatieteenlaitos">Ilmatieteen laitos</option>
+        <option value="foreca">Foreca</option>
+    </select>
+    <input type="text" placeholder="Paikkakunta" name="location"/>
+    <input type="submit" value="Hae" onclick="saaHaku()"/>       
+</form>

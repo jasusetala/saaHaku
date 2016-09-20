@@ -1,4 +1,8 @@
 HTML:
+<link rel="stylesheet" href="saaHaku.css">
+...
+<script src="saaHaku.js"></script>
+...
 <form class="saahaku" name="saahaku">
     <select name="source">
         <option value="ilmatieteenlaitos">Ilmatieteen laitos</option>

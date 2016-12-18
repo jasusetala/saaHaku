@@ -16,4 +16,5 @@ Yksinkertainen JavaScript-plugin, jolla saadaan haettua paikallissää Ilmatiete
     </select>
     <input type="text" placeholder="Paikkakunta" name="location"/>
     <input type="submit" value="Hae" onclick="saaHaku()"/>       
-</form>```
+</form>
+```
